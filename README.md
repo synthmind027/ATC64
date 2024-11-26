@@ -1,5 +1,5 @@
 # ATC64
 Assembly Tool Collection 64bit
 ## Feature
-- Distilled/sorted data for convenient use at the time of use.
-- No Dependency C functions
+- Distilled/sorted data for convenient at the time of use.
+- No dependency C functions
