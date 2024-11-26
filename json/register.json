@@ -1,0 +1,6 @@
+{
+  {
+    "data_name": "Full list of x64 registers",
+    "data":  ["RAX", "RCX","RDX","RBX"]
+  }
+}
